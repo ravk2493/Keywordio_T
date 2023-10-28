@@ -1,0 +1,41 @@
+
+.MuiDialog-paperScrollPaper{
+    height: 25% !important;
+    width: 40% !important;
+    position: absolute !important;
+        top: 40% !important;
+        left: 40% !important;
+}
+.MuiDialogContentText-root{
+    position: absolute;
+    top:53% !important;
+    left:40% !important
+    
+}
+.css-1sfpt6l-MuiResponsiveChart-container{
+    width: 60% !important;
+    height: 100% !important;
+}
+.MuiDataGrid-columnSeparator {
+    display: none !important;
+}
+
+.MuiDataGrid-columnHeader:focus {
+    outline: none !important;
+}
+
+.MuiDataGrid-columnHeader:focus-within {
+    outline: none !important;
+}
+
+.MuiFormGroup-root {
+    align-items: flex-end !important;
+}
+
+.MuiDataGrid-cell:focus {
+    outline: none !important;
+}
+
+.MuiInputBase-root {
+    width: 30% !important;
+}
